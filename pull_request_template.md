@@ -1,7 +1,7 @@
 - [ ] Is this pull request related to a work project?
 - If so, can you say who for?
   - [ ] Sure: _company name_
-  - [ ] I can't.  But in general, they are:
+  - [ ] I can't.  But in general, they are (pick one):
     - [ ] public software company
     - [ ] public company in some other industry
     - [ ] private software company
